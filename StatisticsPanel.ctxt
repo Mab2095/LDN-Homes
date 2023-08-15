@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StatisticsPanel
+comment0.text=\n\ Main\ statistic\ panel.\ On\ this\ panel\ four\ statistic\ boxes\ will\ be\ displayed\ \n\ containing\ information\ about\ four\ statistics.\ Statistics\ can\ be\ changed\ in\ each\ box\n\ providing\ that\ the\ same\ statistic\ is\ not\ displayed\ in\ two\ boxes\ at\ the\ same\ time\n\n\ @author\ Lubna\ Taraki\ (K20031620)\n\ @25/03/2021\n
+comment1.params=
+comment1.target=StatisticsPanel()
+comment1.text=\n\ Creates\ four\ stats\ boxes\ and\ creates\ and\ fills\ statistics\ queue\n
+comment2.params=event
+comment2.target=void\ changeBoxOneStat(javafx.event.ActionEvent)
+comment2.text=\n\ Linked\ to\ statsBoxOne;\ changes\ statistic\ displayed\ when\ buttons\ clicked\n\ @\ param\ ActionEvent\ event\ that\ triggers\ this\ method\n
+comment3.params=event
+comment3.target=void\ changeBoxTwoStat(javafx.event.ActionEvent)
+comment3.text=\n\ Linked\ to\ statsBoxTwo;\ changes\ statistic\ displayed\ when\ buttons\ clicked\n\ @\ param\ ActionEvent\ event\ that\ triggers\ this\ method\n
+comment4.params=event
+comment4.target=void\ changeBoxThreeStat(javafx.event.ActionEvent)
+comment4.text=\n\ Linked\ to\ statsBoxThree;\ changes\ statistic\ displayed\ when\ buttons\ clicked\n\ @\ param\ ActionEvent\ event\ that\ triggers\ this\ method\n
+comment5.params=event
+comment5.target=void\ changeBoxFourStat(javafx.event.ActionEvent)
+comment5.text=\n\ Linked\ to\ statsBoxFour;\ changes\ statistic\ displayed\ when\ buttons\ clicked\n\ @\ param\ ActionEvent\ event\ that\ triggers\ this\ method\n
+comment6.params=box
+comment6.target=void\ setInitalStatistics(StatisticBox)
+comment6.text=\n\ Sets\ up\ statistics\ displayed\ when\ panel\ initially\ launched\n\ @param\ StatisticBox\ statsBox\ thst\ is\ being\ set\ up\n
+comment7.params=stage
+comment7.target=void\ start(javafx.stage.Stage)
+comment7.text=\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\n\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\n
+numComments=8

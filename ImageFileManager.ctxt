@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ImageFileManager
+comment0.text=\n\ ImageFileManager\ is\ a\ small\ utility\ class\ with\ static\ methods\ to\ load\n\ and\ save\ images.\n\ \n\ The\ files\ on\ disk\ can\ be\ in\ JPG\ or\ PNG\ image\ format.\ For\ files\ written\n\ by\ this\ class,\ the\ format\ is\ determined\ by\ the\ constant\ IMAGE_FORMAT.\n\ \n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes.\n\ @version\ 2.0\n
+comment1.params=imageFile
+comment1.target=OFImage\ loadImage(java.io.File)
+comment1.text=\n\ Read\ an\ image\ file\ from\ disk\ and\ return\ it\ as\ an\ OFImage.\ This\ method\n\ can\ read\ JPG\ and\ PNG\ file\ formats.\ In\ case\ of\ any\ problem\ (e.g\ the\ file\ does\n\ not\ exist,\ is\ in\ an\ undecodable\ format,\ or\ any\ other\ read\ error)\ this\ method\n\ returns\ null.\n\ \n\ @param\ imageFile\ \ The\ image\ file\ to\ be\ loaded.\n\ @return\ \ \ \ \ \ \ \ \ \ \ The\ image\ object\ or\ null\ if\ it\ was\ not\ a\ valid\ image\ file.\n
+comment2.params=imageName
+comment2.target=OFImage\ loadImage(java.lang.String)
+comment2.text=\n\ Read\ an\ image\ file\ from\ disk\ and\ return\ it\ as\ a\ OFImage.\ This\ method\n\ can\ read\ JPG\ and\ PNG\ file\ formats.\ In\ case\ of\ any\ problem\ (e.g\ the\ file\ does\n\ not\ exist,\ is\ in\ an\ undecodable\ format,\ or\ any\ other\ read\ error)\ this\ method\n\ returns\ null.\n\ \n\ @param\ imageName\ \ The\ URI\ of\ the\ image\ path\ to\ be\ loaded.\n\ @return\ \ \ \ \ \ \ \ \ \ \ The\ image\ object\ or\ null\ if\ it\ was\ not\ a\ valid\ image\ file.\n
+numComments=3

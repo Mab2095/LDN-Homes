@@ -1,0 +1,16 @@
+.labelW {
+    -fx-font-size: 19px ;
+    -fx-text-fill: #00008b ;
+}
+.labelS {
+    -fx-font-size: 17px ;
+}
+.labelI {
+    -fx-font-size: 15px ;
+}
+.button {
+    -fx-background-color: #e6e6e6
+}
+.root{
+    -fx-background-color: #bfbfbf
+}

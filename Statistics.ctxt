@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Statistics
+comment0.text=\n\ Class\ represents\ statsictics\ \n\n\ @author\ Lubna\ Taraki(K20031620)\n\ @version\ 25/03/2021\n
+comment1.params=
+comment1.target=Statistics()
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=java.util.ArrayList\ getPortfolio()
+comment2.text=\n\ @return\ ArrayList\ of\ all\ listings\ in\ data\ set\n
+comment3.params=
+comment3.target=java.lang.String\ getStatisticTitle()
+comment3.text=\n\ @return\ statistic\ title\n
+comment4.params=
+comment4.target=java.util.HashMap\ getAllBoroughs()
+comment4.text=\n\ @return\ hashmap\ containg\ all\ boroughs\ and\ number\ of\ properties\ in\ them\n
+comment5.params=
+comment5.target=java.lang.Object\ calculateStatistic()
+comment5.text=\n\ @return\ value\ of\ calculated\ statitic\n
+comment6.params=input
+comment6.target=void\ setStatisticTitle(java.lang.String)
+comment6.text=\n\ Set\ title\ to\ describe\ statistic\n
+numComments=7

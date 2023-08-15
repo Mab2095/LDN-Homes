@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NumberOfHosts
+comment0.text=\n\ Calculates\ number\ of\ hosts\ on\ the\ server;\ not\ equal\ to\ total\ properties\ as\ some\ hosts\ have\ \n\ more\ than\ one\ \n\n\ @author\ Lubna\ Taraki(K20031620)\n\ @version\ 25/03/2021\n
+comment1.params=
+comment1.target=NumberOfHosts()
+comment1.text=\n\ Sets\ title\ of\ statistic\n
+comment2.params=
+comment2.target=java.lang.Integer\ calculateStatistic()
+comment2.text=\n\ Creates\ hashmap\ connects\ properties\ with\ host\n\ Uses\ size\ of\ 5hashmap\ to\ find\ number\ of\ hosts\n\ @return\ number\ of\ hosts\ in\ data\ set\n
+numComments=3

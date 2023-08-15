@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TotalFullListings
+comment0.text=\n\ Calculates\ total\ number\ of\ full\ rooms\ available\ in\ data\ set\ \n\n\ @author\ Lubna\ Taraki\ (K20031620)\n\ @version\ 25/03/2021\n
+comment1.params=
+comment1.target=TotalFullListings()
+comment1.text=\n\ Sets\ title\ for\ statistic\n
+comment2.params=
+comment2.target=java.lang.Integer\ calculateStatistic()
+comment2.text=\n\ Checks\ the\ room\ type\ of\ listing\ and\ adds\ all\ listings\ that\ are\ full\ rooms\n\ @return\ number\ of\ full\ rooms\n
+numComments=3

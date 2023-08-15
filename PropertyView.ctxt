@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PropertyView
+comment0.text=\n\ Write\ a\ description\ of\ JavaFX\ class\ PropertyView\ here.\n\n\ @author\ Frantisek\ Hermanek\ K20077556\n\ @version\ 2021.03.25\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\n\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\n\ \n\ @author\ Frantisek\ Hermanek\ K20077556\n
+comment2.params=borough\ properties
+comment2.target=void\ open(java.lang.String,\ java.util.ArrayList)
+comment2.text=\n\ Is\ called\ from\ the\ GUI\ class\ when\ propery\ information\ is\ to\ be\ displayed.\n\ Resets\ the\ property\ counter\ and\ adds\ filtered\ Airbnb\ properties\ from\ the\ GUI\n\ "filterProperties"\ List\ into\ the\ list\ used\ in\ this\ class.\n\ \n\ @param\ String\ borough\ The\ currently\ selected\ borough\ to\ be\ displayed.\n\ @param\ ArrayList<AirbnbListing>\ properties\ The\ filtered\ ArrayList\ of\ Airbnb\ property\ listings\ to\ be\ copied.\n\ \n\ @author\ Frantisek\ Hermanek\ K20077556\n
+comment3.params=propertyIndex
+comment3.target=void\ displayProperty(int)
+comment3.text=\n\ This\ method\ displays\ each\ property\ that\ from\ the\ filterProperty\ ArrayList\ that\ containts\ proerties\ between\ the\ price\ range\ \n\ specified\ by\ the\ user.\n\ @param\ int\ propertyIndex\ the\ index\ of\ the\ property\ to\ be\ displayed\n\ @author\ Mugur-Cristian\ Iacob(k20081981)\ and\ Frantisek\ Hermanek\ K20077556\n
+comment4.params=event
+comment4.target=void\ nextButton(javafx.event.ActionEvent)
+comment4.text=\n\ This\ method\ implements\ the\ action\ that\ takes\ place\ when\ the\ next\ button\ is\ clicked.\n\ @author\ Mugur-Cristian\ Iacob(20081981)\ and\ Frantisek\ Hermanek\ K20077556\n
+comment5.params=event
+comment5.target=void\ backButton(javafx.event.ActionEvent)
+comment5.text=\n\ This\ method\ implements\ the\ action\ that\ takes\ place\ when\ the\ back\ button\ is\ cliked.\n\ @author\ Mugur-Cristian\ Iacob(k20081981)\n
+numComments=6

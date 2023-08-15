@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GreenestBorough
+comment0.text=\n\ Calculates\ greenest\ borugh\ in\ London\ by\ dividing\ total\ number\ of\ trees\ in\ borough\n\ by\ the\ area\ of\ borough.\ Number\ of\ tress\ calculated\ using\ data\ set\ below\ \n\ https\://data.london.gov.uk/dataset/local-authority-maintained-trees\#\:~\:text\=This%20dataset%20includes%20the%20locations,over%20880%2C000%20of%20London's%20trees.\n\n\ @author\ Lubna\ Taraki(K20031620)\n\ @version\ 25/03/2021\n
+comment1.params=
+comment1.target=GreenestBorough()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GreenestBorough\n
+comment2.params=
+comment2.target=java.lang.String\ calculateStatistic()
+comment2.text=\n\ Calculates\ total\ number\ of\ trees\ in\ each\ borough\ using\ secondary\ data\ set\n\ Divides\ by\ area\ of\ borough\ also\ derived\ from\ secondary\ data\ set;\ compares\ borough\ to\ \n\ find\ borough\ with\ most\ trees\n\ @return\ greenes\ borough\n
+comment3.params=doubleString
+comment3.target=java.lang.Double\ convertDouble(java.lang.String)
+comment3.text=\n\n\ @param\ doubleString\ the\ string\ to\ be\ converted\ to\ Double\ type\n\ @return\ the\ Double\ value\ of\ the\ string,\ or\ -1.0\ if\ the\ string\ is\ \n\ either\ empty\ or\ just\ whitespace\n
+numComments=4

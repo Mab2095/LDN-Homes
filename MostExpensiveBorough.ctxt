@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MostExpensiveBorough
+comment0.text=\n\ Calculates\ most\ expensive\ borough\ to\ rent\ in;\ minimum\ nights\ taken\ into\ account\n\ as\ well\ as\ price\ per\ night\n\n\ @author\ Lubna\ Taraki(K20031620)\n\ @version\ 25/03/2021\n
+comment1.params=
+comment1.target=MostExpensiveBorough()
+comment1.text=\n\ Sets\ title\ for\ statistic\ \n
+comment2.params=
+comment2.target=java.lang.String\ calculateStatistic()
+comment2.text=\n\ \n
+numComments=3

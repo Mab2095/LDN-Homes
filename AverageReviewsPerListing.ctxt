@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AverageReviewsPerListing
+comment0.text=\n\ Calculates\ average\ reviews\ per\ listing\ \n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=AverageReviewsPerListing()
+comment1.text=\n\ Sets\ statitics\ title\n
+comment2.params=
+comment2.target=java.lang.Integer\ calculateStatistic()
+comment2.text=\n\ Calculates\ total\ statistics\ on\ website\ then\ divides\ by\ number\ of\ preoperties\ \n\ @return\ average\ reviews\ per\ statistic\n
+numComments=3

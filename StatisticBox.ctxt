@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StatisticBox
+comment0.text=\n\ Class\ that\ produces\ individual\ statistic\ box;\ four\ of\ these\ are\ present\ at\ one\ \n\ time\ in\ the\ statistics\ panel\n\n\ @Lubna\ TarakiK20031620\ \n\ @\ 25/03/2021\n
+comment1.params=
+comment1.target=StatisticBox()
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ createStatsBox()
+comment2.text=\n\ @return\ GridPane\ returns\ template\ of\ statisctics\ box\n
+comment3.params=
+comment3.target=Statistics\ getStat()
+comment3.text=\n\ @return\ current\ statistic\ being\ displayed\n
+comment4.params=statistic
+comment4.target=void\ setStat(Statistics)
+comment4.text=\n\ Updates\ current\ statostci\ being\ displayed\n\ @param\ Statitsics\ statistic\ to\ be\ displayed\ in\ panel\n
+comment5.params=
+comment5.target=javafx.scene.control.Button\ getBack()
+comment5.text=\n\ @return\ back\ button\n
+comment6.params=
+comment6.target=javafx.scene.control.Button\ getForward()
+comment6.text=\n\ @return\ forward\ button\n
+numComments=7
